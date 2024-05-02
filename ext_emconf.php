@@ -14,9 +14,6 @@ $EM_CONF['cleverreach'] = [
     'constraints' => [
         'depends' => [
             'typo3' => '12.4.0-12.4.99',
-            'php' => '8.2.0-8.2.99',
         ],
-        'conflicts' => [],
-        'suggests' => [],
     ],
 ];
